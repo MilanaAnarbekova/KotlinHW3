@@ -7,5 +7,5 @@ import androidx.navigation.NavDirections
 import com.bumptech.glide.Glide
 
 fun ImageView.loadWithGlide(url: String) {
-    Glide.with(this).load(url).into(this)
+    Glide.with(this).load(url).centerCrop().into(this)
 }
