@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinHW3</string>
+    <string name="send">Send</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selected_photo">Выбранные фотографии</string>
+    <string name="selected_photo2">Выбор фотографий</string>
+    <string name="photo">photo</string>
+</resources>
